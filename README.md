@@ -124,3 +124,7 @@ Overall Course
 ## Output yang harus disubmit ke LMS
 
 - Link Pull Request (di repository ini, sesuai format)
+
+## Link Output dari pekerjaan saya 
+- https://github.com/SendyPrismanaNurferian/algorithm-assignment/pull/1 
+
